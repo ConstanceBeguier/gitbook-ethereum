@@ -16,8 +16,8 @@ admin.peers
 ```bash
 geth import/export <filename>
 ```
- - Static node: noeud auquel on veut toujours rester connecté
- - Uniquement des noeuds statiques: 
+  - Static node: noeud auquel on veut toujours rester connecté
+  - Uniquement des noeuds statiques: 
 ```bash
 --nodiscover
 ```
