@@ -16,7 +16,7 @@ geth  account list # or personal.newAccount()
   - Modifier le MDP:  
 ```bash
   geth  account  update [<uuid>|<address>,...]
-  ```
+```
    - Importer des clés: 
 ```bash
 geth  account import [<uuid>|<file>|<secret-hex>]
