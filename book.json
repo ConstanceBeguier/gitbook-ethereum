@@ -1,0 +1,15 @@
+{
+    "gitbook": ">=3.2.0",
+    "styles": {
+    	"website": "assets/continuum/cms.css"
+    },
+    "plugins": [
+	    "katex",
+	    "github@2.0.0"
+    ],
+    "pluginsConfig": {
+	"github": {
+            "url": "https://github.com/ConstanceMorel/gitbook-ethereum"
+        }
+    }
+}
