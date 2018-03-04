@@ -17,7 +17,7 @@ geth  account list # or personal.newAccount()
 ```bash
   geth  account  update [<uuid>|<address>,...]
 ```
-   - Importer des clés: 
+  - Importer des clés: 
 ```bash
 geth  account import [<uuid>|<file>|<secret-hex>]
 ```
