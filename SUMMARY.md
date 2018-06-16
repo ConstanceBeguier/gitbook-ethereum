@@ -1,6 +1,5 @@
 # Summary
 
-* [README](README.md)
 * [Introduction](intro.md)
 * [Installation](install.md)
 * [Comptes (account)](account.md)
