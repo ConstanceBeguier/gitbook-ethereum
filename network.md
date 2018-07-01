@@ -69,7 +69,7 @@ Réseau local de test
 geth --identity "MyNodeName" --rpc --rpcport "8080" --rpccorsdomain
 <url> --datadir <dir>
 ```
- - Allouer de l'argent lors de la création de la blockchain: ajouter dans le fichier CustomGenesis.json
+  - Allouer de l'argent lors de la création de la blockchain: ajouter dans le fichier CustomGenesis.json
 ```bash
 "alloc": { "<account_address>":  { "balance": "200" } }
 ```

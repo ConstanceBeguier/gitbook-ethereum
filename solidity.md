@@ -1,6 +1,6 @@
 # Solidity
 
-Installation:
+**Installation:**
 ```bash
 git clone --recursive  https://github.com/ethereum/solidity.git
 cd solidity
@@ -10,7 +10,7 @@ cd build
 cmake .. &&  make
 ```
 
-Structure d'un contrat:
+**Structure d'un contrat:**
   - Variable d'état (stockée dans le contrat): 
 ```bash
 uint data
